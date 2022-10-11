@@ -75,3 +75,4 @@ $productos = [
 foreach ($productos as $prod){
     echo "Las ceramicas tienen una promoción de precio de $prod[ceramica] y la promocion de las lozas es $prod[lozas] <br>";
 };
+
